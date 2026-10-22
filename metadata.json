@@ -1,0 +1,7 @@
+{
+  "name": "Smart Bakery Production Planning & Inventory Control System",
+  "description": "Industrial Engineering Decision Support System for Production Planning, Profit Optimization (Integer Programming), and Inventory Control (EOQ) for Universitas Pembangunan Nasional Veteran Jakarta (UPNVJ) 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
